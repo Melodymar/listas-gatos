@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(238, 144, 230);
+}
+h2{
+    color:rgb(167, 17, 187)
+}
+#caja
+{
+    border: 1px solid black
+}
+#imag2
+{
+    width:600px ;
+    height: 300px;
+}
+#lista1
+{
+    border: 1px solid black
+}
+#p1{
+    color:rgb(185, 4, 73)
+}
+#p2{
+    color:brown
+}
+#p3{
+    color:rgb(163, 18, 144)
+}
